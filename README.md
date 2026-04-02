@@ -3,7 +3,7 @@
 I'm Raghav. You may know me as `kilacoda` or `the guy who used to work on Manim` or `the guy who made chanim` or `the Manim chemistry videos guy` or something else :)
 I make stuff from time to time and love to explore new things.
 
-At the moment, I’m working on designing keyboards and input methods for Indian languages and scripts (starting with Hindi/Devanagari for now). I'm also making a GitHub Pages site for myself.
+At the moment, I’m working on designing keyboards and input methods for Indian languages and scripts (starting with Hindi/Devanagari for now). I'm also making a GitHub Pages site for myself. I've also been getting into formal verification using Lean4, as well as low-level programming in C.
 
 If you have a question/need help with something/want to work together on something or (most importantly) hire me, feel free to reach out in the socials listed in my profile!
 
